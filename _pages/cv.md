@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Computer Sceince and ENgineering, Shiv Nadar University, 2019
-* Ph.D in Computer Science- Personal Health Infomratics, Northeastern University, 2024 (expected)
+* B.Tech in Computer Science and Engineering, Shiv Nadar University, 2019
+* Ph.D in Computer Science- Personal Health Informatics, Northeastern University, 2024 (expected)
 
 Work experience
 ======
