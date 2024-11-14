@@ -12,13 +12,12 @@ redirect_from:
 Education
 ======
 * B.Tech in Computer Science and Engineering, Shiv Nadar University, 2019
-* Ph.D in Computer Science- Personal Health Informatics, Northeastern University, 2024 (expected)
+* Ph.D in Computer Science- Personal Health Informatics, Northeastern University, 2025 (expected)
 
 Work experience
 ======
 * Graduate Research Assistant, Northeastern University, Sep 2019 - Present
   * Lab: mHealth lab led by Stephen Intille
-  * Research areas: context-aware computing, mobile computing
   * Location: Boston
 
 * Technology Strats Intern, Goldman Sachs, Jan 2019 - May 2019
