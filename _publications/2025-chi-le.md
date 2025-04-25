@@ -6,10 +6,10 @@ excerpt: 'In this work, we combine two input modalities to create a multimodal-Î
 date: 2025-04-22
 venue: 'Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://doi.org/10.1145/3706598.3714086'
-citation: 'Ha Le, Veronika Potter, Rithika Lakshminarayanan, Varun Mishra, Stephen Intille. (2025). &quot;Feasibility and Utility of Multimodal Micro Ecological Momentary Assessment on a Smartwatch.&quot; <i>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</i>. CHI '25.'
+citation: 'Ha Le, Veronika Potter, Rithika Lakshminarayanan, Varun Mishra, Stephen Intille. (2025). &quot;Feasibility and Utility of Multimodal Micro Ecological Momentary Assessment on a Smartwatch.&quot; <i>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</i>. CHI 25.'
 ---
 This paper uses a mixed-methods approach to understand the usability of a multimodal uEMA system to collect self-reported labels for physical activity data from users to deal with the labeling problem in machine learning.
 
 [Download paper here](http://rithika-lakshminarayanan.github.io/files/le_feasibility_2025.pdf)
 
-Recommended citation: Ha Le, Veronika Potter, Rithika Lakshminarayanan, Varun Mishra, Stephen Intille. (2025). "Feasibility and Utility of Multimodal Micro Ecological Momentary Assessment on a Smartwatch." <i>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</i>. CHI '25.
+Recommended citation: Ha Le, Veronika Potter, Rithika Lakshminarayanan, Varun Mishra, Stephen Intille. (2025). "Feasibility and Utility of Multimodal Micro Ecological Momentary Assessment on a Smartwatch." <i>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</i>. CHI 25.
