@@ -12,10 +12,16 @@ redirect_from:
 Education
 ======
 * B.Tech in Computer Science and Engineering, Shiv Nadar University, 2019
-* Ph.D in Computer Science- Personal Health Informatics, Northeastern University, 2025 (expected)
+* Ph.D in Computer Science- Personal Health Informatics, Northeastern University, Augu 2026 (expected)
 
 Work experience
 ======
+
+* Teaching Assistant, Northeastern University, Jan 2026 - Present
+  * Summer 2026 DA5020 Collecting, storing, and analyzing data: Responsible for grading all student assignments; delivered a lecture on clustering methods, including k-nearest neighbors.
+  * Spring 2026 CS 5340 Human-computer interaction: Responsible for grading all student assignments and facilitating in-class activities; delivered a lecture on in-the-wild and longitudinal study methods and designed an accompanying in-class activity.
+  * Location: Boston
+
 * Graduate Research Assistant, Northeastern University, Sep 2019 - Present
   * Lab: mHealth lab led by Stephen Intille
   * Location: Boston
