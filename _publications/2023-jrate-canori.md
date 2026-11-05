@@ -2,7 +2,7 @@
 title: "Potential of social engagement for overcoming barriers to physical activity in individuals with spinal cord injury"
 collection: publications
 permalink: /publication/2023-jrate-canori
-excerpt: 'This paper qulaitively reports exploratory work on leveraging social connections to support individuals with spinal cord injury in increasing their physical activity levls.'
+excerpt: 'A user-needs survey was conducted with participants in the spinal cord injury (SCI) community. We recruited 26 participants (16 individuals with SCI and 10 family members or peers). A participatory design process using semi-structured interviews was used to identify themes relating to PA barriers.'
 date: 2023-06-17
 venue: 'Archives of Physical Medicine and Rehabilitation'
 paperurl: 'https://doi.org/10.1177/20556683231185755'

@@ -2,12 +2,11 @@
 title: "Exploring Opportunities to Improve Physical Activity in Individuals with Spinal Cord Injury Using Context-Aware Messaging"
 collection: publications
 permalink: /publication/2022-cscw-lakshminarayanan
-excerpt: 'This paper qualitatively explores the use of context-aware messaging to support individuals with spinal cord injury in increasing their physical activity levls.'
+excerpt: 'This paper qualitatively explores the use of context-aware messaging to support individuals with spinal cord injury in increasing their physical activity levls. We conducted semi-structured interviews and participatory design sessions with 15 manual wheelchair users with SCI and eight of their family members/friends to investigate user impressions of future technologies that might use computer-mediated, sensor-triggered communication to motivate PA.'
 date: 2022-11-15
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
 paperurl: 'https://doi.org/10.1145/3555628'
-citation: 'Rithika Lakshminarayanan, Alexandra Canori, Aditya Ponnada, Melissa Nunn, Mary Schmidt Read, Shivayogi V Hiremath, Stephen Intille. (2022). &quot;Exploring Opportunities to Improve Physical Activity
-in Individuals with Spinal Cord Injury Using Context-Aware Messaging.&quot; <i>Proceedings of the ACM on Human-Computer Interaction</i>. 6(CSCW2).'
+citation: 'Rithika Lakshminarayanan, Alexandra Canori, Aditya Ponnada, Melissa Nunn, Mary Schmidt Read, Shivayogi V Hiremath, Stephen Intille. (2022). &quot;Exploring Opportunities to Improve Physical Activity in Individuals with Spinal Cord Injury Using Context-Aware Messaging.&quot; <i>Proceedings of the ACM on Human-Computer Interaction</i>. 6(CSCW2).'
 ---
 This paper qualitatively explores the use of context-aware messaging to support individuals with spinal cord injury in increasing their physical activity levls. We conducted semi-structured interviews and participatory design sessions with 15 manual wheelchair users with SCI and eight of their family members/friends to investigate user impressions of future technologies that might use computer-mediated, sensor-triggered communication to motivate PA. We assessed barriers to PA and how context-aware communication could help overcome them.
 
