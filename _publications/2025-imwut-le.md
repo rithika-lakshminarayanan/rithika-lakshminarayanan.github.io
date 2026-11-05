@@ -2,7 +2,7 @@
 title: "A Context-Assisted, Semi-Automated Activity Recall Interface Allowing Uncertainty"
 collection: publications
 permalink: /publication/2025-imwut-le
-excerpt: 'Measuring activities and postures is an important area of research in ubiquitous computing, human-computer interaction, and personal health informatics. In this work, we introduce a novel, context-assisted Activity Annotation Interface that enables participants to efficiently label their activities by accepting or adjusting system-generated activity suggestions while explicitly expressing uncertainty about temporal boundaries.'
+excerpt: 'Measuring activities and postures is an important area of research in ubiquitous computing, human-computer interaction, and personal health informatics. In this work, we introduce a novel, context-assisted Activity Annotation Interface (ACAI) that enables participants to efficiently label their activities by accepting or adjusting system-generated activity suggestions while explicitly expressing uncertainty about temporal boundaries. We evaluated ACAI using two complementary studies: a usability study with 11 participants and a two-week, free-living study with 14 participants. We compared our activity annotation system with the current gold-standard methods for activity recall in health sciences research: 24PAR and its computerized version, ACT24. Our system reduced annotation time and perceived effort while significantly improving data validity and fidelity compared to both standard human-supervised and unsupervised activity recall approaches.'
 date: 2025-12-02
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
 paperurl: 'https://doi.org/10.1145/3770710'
